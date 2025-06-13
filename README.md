@@ -47,7 +47,9 @@ HospitalManagementSystem/
    cd HospitalManagementSystem
 
 2. **Compile the code**
+   
     g++ main.cpp -o hospital
 
 3. **Run the code**
+   
     ./hospital
